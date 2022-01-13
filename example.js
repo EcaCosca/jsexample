@@ -31,4 +31,4 @@ const greeter = (name = "Sr.") => {
   
   
   
-  
+const alarm = () => alert("Hello, everything is connected and working")
